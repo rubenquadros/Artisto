@@ -3,5 +3,8 @@
     <declare-styleable name="Artisto">
         <attr name="imageURL" format="string"/>
         <attr name="placeholder" format="string"/>
+        <attr name="gif" format="string"/>
+        <attr name="gifURL" format="string"/>
+        <attr name="contentMode" format="string"/>
     </declare-styleable>
 </resources>
